@@ -18,10 +18,6 @@
           <option name="url" value="https://github.com/jkutner/HerokuAndroidExample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/Bil495-Project/Android.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Deniz\.vscode" />
