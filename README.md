@@ -1,1 +1,1 @@
-# Receipt Managment System'inin Android kısmı.
+# Receipt Management System'inin Android kısmı.
